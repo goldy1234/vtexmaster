@@ -1,0 +1,8 @@
+{
+  "countdown": {
+    "component": "Countdown"
+  },
+  "tab-layout":{
+    "component":"tab-layout"
+  }
+}
